@@ -8,12 +8,12 @@ En este repositorio se adjunta la imagen con los tres diagramas para una mejor v
 
 ## DIAGRAMA LÓGICO
 
-![image-20231206152838994](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20231206152838994.png)
+![image-20231206152838994](./logico.png)
 
 ## DIAGRAMA FÍSICO
 
-![image-20231206153155094](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20231206153155094.png)
+![image-20231206153155094](./fisico.png)
 
 ## DIAGRAMA RELACIONAL
 
-![image-20231206153230286](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20231206153230286.png)
+![image-20231206153230286](./relacional.png)
